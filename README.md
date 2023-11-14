@@ -19,9 +19,6 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 
 
 
-## Education 
-
-
 
 ## Personal Projects 
 
