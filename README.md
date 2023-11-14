@@ -25,18 +25,17 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 
 ## Achivements 
 
-####
 
-
-
-
-
-
-
-## Personal Projects 
 
 
 ## Connect with me 
+
+LinkedIn: https://www.linkedin.com/in/meghachovatiya11/
+Tableau:
+Medium: 
+
+
+
 
 
 
