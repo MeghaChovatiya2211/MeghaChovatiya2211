@@ -6,8 +6,7 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 
 ## Education 
 
-• Georgia State University | Masters in Data Science and Analytics | December 2022
-
+• Georgia State University | Masters in Data Science and Analytics | December 2022 <br>
 • St. Francis Insititute of Technology | Bachelor of Engineering in Information Technology | May 2019
 
 ## Certifications
@@ -23,28 +22,22 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 • Tata Consultancy Services| Business Analyst (June 2019 - April 2021) <br>
 • Womaniya | Product Analyst Intern (Nov 2018 - Jan 2019) <br>
 
-## Achivements 
+## Publication 
 
+Prediction of Dengue using Recurrent Neural Network: https://ieeexplore.ieee.org/document/886258
 
+## Skills
 
+**Data Programming and Database Management:** Python (NumPy, pandas, matplotlib, seaborn, sklearn, nltk), SQL <br>
+**Software:** Tableau, Clever Tap, Jenkins, Git Version Control, Microsoft SQL Server Studio, PowerPoint Salesforce, MS Excel <br>
+**AWS Services:** S3, Athena, SageMaker, Lambda, DMS, Step Functions, Glue, Service Catalog, EMR, SQS, SNS.<br>
+**Machine Learning:** Data Exploration, Manipulation. Supervised and unsupervised learning algorithms <br>
 
 ## Connect with me 
 
-LinkedIn: https://www.linkedin.com/in/meghachovatiya11/
-Tableau:
-Medium: 
+LinkedIn: https://www.linkedin.com/in/meghachovatiya11/ <br>
+Tableau: https://public.tableau.com/app/profile/megha.chovatiya/vizzes <br>
+Medium: https://meghachovatiya2211.medium.com/ <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Let's have some fun with Data ## 
 
