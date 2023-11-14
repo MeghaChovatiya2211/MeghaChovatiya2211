@@ -6,8 +6,9 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 
 ## Education 
 
-Georgia State University | Masters in Data Science and Analytics | December 2022
-St. Francis Insititute of Technology | Bachelor of Engineering in Information Technology | May 2019
+• Georgia State University | Masters in Data Science and Analytics | December 2022
+
+• St. Francis Insititute of Technology | Bachelor of Engineering in Information Technology | May 2019
 
 ## Skills
 
