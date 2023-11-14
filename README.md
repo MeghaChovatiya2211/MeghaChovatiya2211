@@ -17,6 +17,19 @@ I'm Megha Chovatiya, a seasoned data analyst with a wide-ranging background that
 
 ## Experience 
 
+#### Costar Group | Data Operations Analyst (Aug 2022 - Present)
+#### Cox Communications | Data Analyst Intern ( May 2022 - Aug 2022)
+#### Georgia State University | Graduate Research Assistant in Data Science and Analytics Department (Aug 2021 - May 2022)
+#### Tata Consultancy Services| Business Analyst (June 2019 - April 2021)
+### Womaniya | Product Analyst Intern (Nov 2018 - Jan 2019)
+
+## Achivements 
+
+####
+
+
+
+
 
 
 
