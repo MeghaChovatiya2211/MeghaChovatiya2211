@@ -29,7 +29,6 @@ Prediction of Dengue using Recurrent Neural Network: https://ieeexplore.ieee.org
 ## Skills
 
 **Data Programming and Database Management:** Python (NumPy, pandas, matplotlib, seaborn, sklearn, nltk), SQL <br>
-**Software:** Tableau, Clever Tap, Jenkins, Git Version Control, Microsoft SQL Server Studio, PowerPoint Salesforce, MS Excel <br>
 **AWS Services:** S3, Athena, SageMaker, Lambda, DMS, Step Functions, Glue, Service Catalog, EMR, SQS, SNS.<br>
 **Machine Learning:** Data Exploration, Manipulation. Supervised and unsupervised learning algorithms <br>
 
